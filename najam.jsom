@@ -1,0 +1,40 @@
+{
+	"name": "Najam Israr",
+	"image": "https://goukuhere.github.io/Portfolio/najam.png",
+	"description": "I'm doing BsCs from CUI.",
+	"skills": [{
+			"skill": "MAD",
+			"experience": "3"
+		},
+		{
+			"skill": "WEB DEVELOPMENT",
+			"experience": "4"
+		},
+		{
+			"skill": "Graphic Designing",
+			"experience": "2"
+		},
+		{
+			"skill": "VIDEO EDITING",
+			"experience": "0.5"
+		},
+		{
+			"skill": "MUSIC MAKING",
+			"experience": "1"
+		}
+	],
+	"hobbies": ["Singing", "Cartoon Animations", "Cricket", "Football"],
+	"projects": [{
+			"name": "Inventory System",
+			"Description": "A web based project."
+		},
+		{
+			"name": "Security app",
+			"link": "A women security app"
+		},
+		{
+			"name": "Railway Management System",
+			"link": "A complete OOP based project"
+		}
+	]
+}
